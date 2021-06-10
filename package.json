@@ -1,15 +1,19 @@
 {
-  "name": "vue-cube-carousel",
+  "name": "vue-tree-carousel",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "docs": "vue-cli-service build documentation/main.js "
   },
   "dependencies": {
+    "@adapttive/vue-markdown": "^4.0.1",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-frag": "^1.1.5",
+    "vue2-hammer": "^2.1.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
