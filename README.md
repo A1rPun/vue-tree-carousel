@@ -1,4 +1,4 @@
-# vue-cube-carousel
+# vue-tree-carousel
 
 ## Project setup
 ```

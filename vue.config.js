@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/vue-cube-carousel/' : '/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/vue-tree-carousel/' : '/',
   outputDir: 'docs',
   pages: {
     index: {
